@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(234, 91, 167);
+    padding: 10px;
+    width: 1238px;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+    padding: 10px;
+}
+.secdiv{
+    display: flex;
+    gap: 60px;
+}
+.About{
+    display: flex;
+}
