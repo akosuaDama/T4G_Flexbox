@@ -5,6 +5,7 @@ nav{
     background-color: rgb(234, 91, 167);
     padding: 10px;
     width: 1230px;
+    gap: 100px;
 }
 .links{
     display: flex;
